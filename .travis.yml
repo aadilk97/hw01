@@ -6,4 +6,4 @@ before_script:
   - chmod +x code/__init__.py
 
 script:
-  - code/__init__.py
+  - python3 code/__init__.py
