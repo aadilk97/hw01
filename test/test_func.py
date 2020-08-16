@@ -6,4 +6,4 @@ def mul(x, y):
 
 def test_answer():
     assert inc(3) == 4
-    assert mul(3, 4) == 11
+    assert mul(3, 4) == 12
