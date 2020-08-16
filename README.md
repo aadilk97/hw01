@@ -25,9 +25,10 @@ A CONTRIBUTING.md file, in an open source repository or site, provides potential
 A code of conduct defines standards for how to engage in a community. It signals an inclusive environment that respects all contributions. It also outlines procedures for addressing problems between members of your project's community. The CODE_OF_CONDUCT.md file outlines all such community standards and procedures.
 
 ### <a href="./CITATIONS.md">CITATIONS.md</a>
-Zenodo is a platform where you can permanently archive your code and other project elementsZenodo does this by assigning projects a Digital Object Identifier (DOI), which also helps to make the work more citable.
+This file contains the ZENODO DOI badge. Zenodo is a general-purpose open-access repository developed under the European OpenAIRE program and operated by CERN. It allows researchers to deposit data sets, research software, reports, and any other research related digital artifacts. For each submission, a persistent digital object identifier (DOI) is minted, which makes the stored items easily citeable.
 
 ### <a href="./setup.py">setup.py</a>
-setup.py tells what module/package you are about to install. It allows you to easily install Python package.
+The setup.py script is the centre of all activity in building, distributing, and installing modules using the setuptools or Distutils. The main purpose of the setup.py script is to describe your module distribution to the Distutils or setuptools, so that the various commands that operate on your modules do the right thing.
 
 ### <a href="./README.md"> README.md</a>
+The current file you're reading! A README is often the first item a visitor will see when visiting your repository. It typically provides information on what the project does, how the project is useful, how users can get started with the project, where users can get help with your project, who maintains and contributes to the project. It can be formatted to look more presentable.
