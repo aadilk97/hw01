@@ -1,6 +1,5 @@
-# GROUP 15 SE 2020 HOMEWORK 1 
-
-This is a README. It's the greatest README ever created. Nobody has ever written a README quite like this in the history of READMEs. Many very important People ask us about our READMEs and it is because we are the greatest group in the history of the universe.
+## Homework 1 - Group 15 
+This repo was created as a part of the Homework 1 submission for CSC510 - Software Engineering, Fall 2020. The aim of this homework was to understand what a "good" repository looks like. Besides having a codebase, a good repositories should also be complete, readable and well documented.     
 
 ## Why use .gitignore?
 
