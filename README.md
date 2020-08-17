@@ -2,6 +2,7 @@
   <a href="https://travis-ci.org/github/aadilk97/hw01"><img src="https://travis-ci.org/aadilk97/hw01.svg?branch=master" /></a>
   <img src="https://img.shields.io/badge/license-MIT-green.svg">&nbsp;
   <img src="https://img.shields.io/badge/language-python-orange.svg">&nbsp;
+  <a href="https://doi.org/10.5281/zenodo.3987700"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3986246.svg" alt="DOI"></a>
 </span>
 
 # Homework 1 - Group 15 
