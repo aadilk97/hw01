@@ -1,4 +1,8 @@
-<a href="https://travis-ci.org/github/aadilk97/hw01"><img src="https://travis-ci.org/aadilk97/hw01.svg?branch=master" /></a>
+<span align="center">
+  <a href="https://travis-ci.org/github/aadilk97/hw01"><img src="https://travis-ci.org/aadilk97/hw01.svg?branch=master" /></a>
+  <img src="https://img.shields.io/badge/license-MIT-green.svg">&nbsp;
+  <img src="https://img.shields.io/badge/language-python-orange.svg">&nbsp;
+</span>
 
 # Homework 1 - Group 15 
 This repo was created as a part of the Homework 1 submission for CSC510 - Software Engineering, Fall 2020. The aim of this homework was to understand what a "good" repository looks like. Besides having a codebase, a good repositories should also be complete, readable and well documented.     
